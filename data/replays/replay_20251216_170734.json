@@ -1,0 +1,97 @@
+{
+  "game_info": {
+    "game_mode": "free_for_all",
+    "grid_size": [
+      40,
+      30
+    ],
+    "player_names": [
+      "Player",
+      "AI_0",
+      "AI_1"
+    ],
+    "game_settings": {
+      "ai_difficulty": 0.5,
+      "ai_count": 2,
+      "game_mode": "free_for_all"
+    },
+    "recording_start": "2025-12-16T17:07:34.431850",
+    "version": "1.0"
+  },
+  "input_frames": [],
+  "game_state_frames": [
+    {
+      "frame_number": 0,
+      "timestamp": 0.0029659271240234375,
+      "snake_positions": {
+        "ai_0": [
+          {
+            "x": 11,
+            "y": 7
+          },
+          {
+            "x": 10,
+            "y": 7
+          },
+          {
+            "x": 9,
+            "y": 7
+          }
+        ],
+        "ai_1": [
+          {
+            "x": 31,
+            "y": 7
+          },
+          {
+            "x": 30,
+            "y": 7
+          },
+          {
+            "x": 29,
+            "y": 7
+          }
+        ],
+        "player": [
+          {
+            "x": 21,
+            "y": 15
+          },
+          {
+            "x": 20,
+            "y": 15
+          },
+          {
+            "x": 19,
+            "y": 15
+          }
+        ]
+      },
+      "food_positions": [
+        {
+          "x": 25,
+          "y": 29
+        },
+        {
+          "x": 35,
+          "y": 16
+        },
+        {
+          "x": 11,
+          "y": 21
+        },
+        {
+          "x": 22,
+          "y": 13
+        },
+        {
+          "x": 17,
+          "y": 9
+        }
+      ],
+      "scores": {
+        "ai_0": 0,
+        "ai_1": 0,
+        "player": 0
+      },
+      "active_snakes": 
