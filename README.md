@@ -2,8 +2,9 @@
 
 A revolutionary snake game implementation featuring innovative hexagonal grid mechanics, developed as a demonstration of **Archiflow** - a vibe engineering agent for complete software life cycles.
 
-![Hexagonal Snake Game Demo](./videos/Hex_snake.mp4)
-*[Click to play the demo video - Watch the hexagonal grid snake game in action!]*
+Hexagonal Snake Game Demo:
+https://www.youtube.com/watch?v=0f-cT5X-gvg
+
 
 ## 🎮 Game Features
 
